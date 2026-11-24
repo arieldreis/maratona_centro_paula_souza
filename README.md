@@ -22,10 +22,11 @@ Durante a competição, trabalhei com apenas uma linguagem de programação e re
 - **Estruturas de Dados e Condicionais:** manipulação de listas, laços, condições e cálculos manuais sem uso de bibliotecas externas.  
 
 ## Resultados
-**2025**
+**2025**\
 No ano de 2025 junto a minha equipe conseguimos obter o resultado em **7ª colocação geral** entre 100 equipes participantes.  
 Essa experiência reforçou minha habilidade de resolver problemas de forma lógica, estruturada e criativa.
-**2026**
+
+**2026**\
 No ano de 2026 junto a minha equipe conseguimos conquistar a **11ª colocação geral** entre 160 equipes participantes.
 Durante essa minha última maratona de programação pude reforçar ainda mais meus conhecimentos em lógica de programação e estrutura de dados.
 
